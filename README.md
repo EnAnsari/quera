@@ -18,7 +18,7 @@
   Telegram ID: <a href="https://t.me/EnAnsari">@EnAnsari</a>
 </div>
 <br><br>
-<div style="text-align: center">
+<div style="width: auto; margin-left: auto; margin-right: auto">
   <h3>
     <a href="https://quera.org/">quera.org</a>
   </h3>
