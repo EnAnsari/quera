@@ -12,8 +12,8 @@
 <br><br>
 <textarea dir="ltr">
   The fastest way to contact me is <a href="mailto:Rahmat2022a@gmail.com">my email</a>
-  <br>
+  </br>
   second Email: <a href="mailto:En.Ansari@outlook.com">En.Ansari@outlook.com</a>
-  <br>
+  </br>
   Telegram ID: <a href="https://t.me/EnAnsari">@EnAnsari</a>
 </textarea>
