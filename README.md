@@ -10,7 +10,7 @@
 <br><br>
 همچنین با دادن ستاره ⭐ به این ریپوزیتوری از آن حمایت کنید.
 <br><br>
-<textarea dir="rtl">
+<textarea dir="ltr">
   The fastest way to contact me is <a href="mailto:Rahmat2022a@gmail.com">my email</a>
   <br>
   second Email: <a href="mailto:En.Ansari@outlook.com">En.Ansari@outlook.com</a>
