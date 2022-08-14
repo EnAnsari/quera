@@ -16,20 +16,6 @@
   second Email: <a href="mailto:En.Ansari@outlook.com">En.Ansari@outlook.com</a>
   <br>
   Telegram ID: <a href="https://t.me/EnAnsari">@EnAnsari</a>
+  <br><br>
+  Quera: <a href="https://quera.org/">quera.org</a>
 </div>
-<br><br>
-<div id="container">
-    <div id="centeredBlock">
-        <a href="https://quera.org/">quera.org</a>
-    </div>
-</div>
-
-#container {
-    text-align: center;
-}
-
-#centeredBlock {
-    margin: 0 auto;
-    text-align: left;
-    width: 50%;
-}
