@@ -18,8 +18,18 @@
   Telegram ID: <a href="https://t.me/EnAnsari">@EnAnsari</a>
 </div>
 <br><br>
-<div style="width: auto; margin-left: auto; margin-right: auto">
-  <h3>
-    <a href="https://quera.org/">quera.org</a>
-  </h3>
+<div id="container">
+    <div id="centeredBlock">
+        <a href="https://quera.org/">quera.org</a>
+    </div>
 </div>
+
+#container {
+    text-align: center;
+}
+
+#centeredBlock {
+    margin: 0 auto;
+    text-align: left;
+    width: 50%;
+}
