@@ -1,0 +1,41 @@
+<!-- powered by Rahmat
+Email: Rahmat2022a@gmail.com
+Github: https://github.com/EnAnsari
+question link: https://quera.org/problemset/15681/ -->
+
+
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Simple Comment</title>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" type="text/css" href="style.css" />
+</head>
+
+<body>
+
+    <div id="comment" class="boxes">
+        <div id="profile"></div>
+        <div id="likes"></div>
+        <svg height=60 width=60 style="top : 120px; left : 12px; position : absolute;">
+            <path stroke-width="6" stroke="#60e16d" d="M10 35 L20 50 L50 10" fill="none"></path>
+        </svg>
+        <svg height=150 width=380 style="top : 25px; left : 100px; position : absolute;">
+            <path stroke="#111" stroke-width="1px"
+                d="M0 2 l100 0 M0 20 l70 0 M0 40 l500 0 M0 60 l500 0 M0 80 l300 0 M0 100 l350 0 M0 120 l250 0 M0 140 l200 0"
+                fill="none"></path>
+        </svg>
+    </div>
+
+</body>
+<script>
+
+    window.onload = async () => {
+        let data = await fetch('./count.json');
+        let count = JSON.parse(JSON.stringify(await data.json())).count
+        document.getElementById('likes').innerText = count;
+    }
+</script>
+
+</html>
