@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  width: 500px;
+  height: 500px;
+  background: #bdc3c7;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.box {
+  width: 50px;
+  height: 50px;
+  background-color: #2c3e50;
+}
+
+
+/* powered by Rahmat
+Email: Rahmat2022a@gmail.com
+Github: https://github.com/EnAnsari
+question link: https://quera.org/problemset/68275/ */

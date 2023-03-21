@@ -1,0 +1,25 @@
+body {
+    background-color: #EEE;
+    margin: 0;
+}
+
+h1 {
+    font-family: arial, sans-serif;
+    color: #333;
+    letter-spacing: 3px;
+    left: 250px;
+    width: 300px;
+    text-align: center;
+    position: absolute;
+}
+
+#container {
+    font-family: arial, sans-serif;
+    top: 500px;
+    left: 100px;
+    width: 630px;
+    font-size: 1.2em;
+    color: #333;
+    position: absolute;
+    text-align: justify;
+}
