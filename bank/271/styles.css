@@ -1,0 +1,44 @@
+@font-face {
+  font-family: Vazir;
+  src: url('./assets/Vazir.ttf');
+}
+
+* {
+  font-family: Vazir;
+}
+
+main {
+  display: grid;
+  grid-template-columns: repeat(4, auto);
+  grid-gap: 50px;
+  margin: 50px;
+}
+
+.product {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  text-align: center;
+}
+
+h1 {
+  font-weight: normal;
+}
+
+.price {
+  color: grey;
+  font-size: 22px;
+}
+.btn {
+  border: none;
+  color: white;
+  padding: 14px 28px;
+  cursor: pointer;
+  background-color: #4caf50;
+}
+.btn:hover {
+  background-color: #46a049;
+}
+
+#changeProducts {
+  margin-right: 50px;
+  font-size: 18px;
+}
